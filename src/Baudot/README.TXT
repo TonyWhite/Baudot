@@ -7,7 +7,7 @@ Il progetto manca di tutti gli accorgimenti grafici (es.: splash screen), funzio
 SCREEN
 
 DOWNLOAD ULTIMA VERSIONE
-binari e sorgenti su guthub
+binari e sorgenti su github
 
 REQUISITI
 Sun Java 6 o Open Java 6
